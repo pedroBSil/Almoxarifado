@@ -33,19 +33,19 @@ const motivos=[
 
 const produtos=[
     {
-        "idProduto": 10,
-        "Descricao": "Pinga",
+        "idProduto": 1,
+        "Descricao": "banana",
         "Estoque": 10,
         "EstoqueMinimo": 5,
         "Unidade":'Pç',
-        "Valor": 10,
+        "Valor": 15,
     },
     {
-        "idProduto": 20,
-        "Descricao": "Bala",
+        "idProduto": 2,
+        "Descricao": "uva",
         "Estoque": 5,
         "EstoqueMinimo": 5,
         "Unidade":'Pç',
-        "Valor": 20,
+        "Valor": 10,
     },
 ]
